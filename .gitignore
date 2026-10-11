@@ -1,0 +1,4 @@
+spark/jars/*.jar
+*.log
+.DS_Store
+__pycache__/

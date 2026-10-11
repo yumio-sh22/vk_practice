@@ -1,0 +1,3 @@
+compression,query_seconds,bronze_mb,conclusion
+GZIP,,,
+ZSTD,,,
